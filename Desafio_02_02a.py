@@ -16,7 +16,7 @@ numero_saques = 0
 LIMITE_SAQUES = 3
 
 USUARIO_PADRAO = {"Nome": "Não cadastrado", "Data de nascimento": "DD/MM/AAAA", "CPF": "0123456789", "Endereço": "Rua dos Bobos, 0 - Imaginação - Rio de Janeiro/RJ"}
-filipe = {"Nome": "Filipe", "Data de nascimento": "04/04/1998", "CPF": "06394247324", "Endereço": "Rua dos Bobos, 0 - Imaginação - Rio de Janeiro/RJ"}
+filipe = {"Nome": "Filipe", "Data de nascimento": "01/01/1995", "CPF": "08396247342", "Endereço": "Rua dos Bobos, 0 - Imaginação - Rio de Janeiro/RJ"}
 usuarios = [filipe]
 cpfs_cadastrados = [filipe["CPF"]]
 
